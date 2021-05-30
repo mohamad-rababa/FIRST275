@@ -98,11 +98,11 @@ alert("welcome to our websit " + userName )
 var observe = prompt("Do you observe safety rules?");
 // console.log(userAge);
 
-if(observe === mXm ){
+if(observe === mxm ){
   // console.log("what do you work ?");
   document.write("<p> Welcome to the club </p>")
 }else if(observe === "cation"){
   document.write('<img src="https://pbs.twimg.com/profile_images/1324093768618909697/Ij-CAeyd_400x400.jpg" width="250px" alt="AOT"/>')
 }else{
-  alert('please next time answer either method X method or cation ')
+  alert('please next time follow safety rules ')
 }
