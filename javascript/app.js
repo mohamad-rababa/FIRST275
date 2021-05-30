@@ -10,7 +10,6 @@ second line
 2- Number =>  5 1.3 -8  
 3- Boolean => true / false
 */
-
 //Variables : 
 var userName = "Rababa";
 // console for the develpoer 
